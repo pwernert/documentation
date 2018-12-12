@@ -1,6 +1,6 @@
 **Coopération pour l'Information Géographique en Alsace**
 
-# Comment publier votre couche SIG sur la géoplateforme CIGAL ?
+# Comment publier votre couche SIG sur la géoplateforme GéoGrandEst ?
 
 <!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
 <a id="sommaire-"></a>
